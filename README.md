@@ -20,7 +20,7 @@ A clean, modern landing page for **SwipeCleaner**, a powerful media cleaner for 
 - Smooth, responsive UI
 - Requires **Python 3.13**
 
-⬇ **[Download App](https://github.com/jscreatordev/swipecleaner/releases/tag/python)**
+⬇ **[Download App](https://github.com/jscreatordev/swipecleaner/releases)**
 
 ---
 
