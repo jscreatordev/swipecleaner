@@ -28,7 +28,7 @@ A clean, modern landing page for **SwipeCleaner**, a powerful media cleaner for 
 
 | Preview 1 | Preview 2 |
 |----------|-----------|
-| ![screenshot 1](swipecleaner/1sb.png) | ![screenshot 2](swipecleaner/2sb.png) |
+| ![screenshot 1](https://softwarebyte.site/swipecleaner/1sb.png) | ![screenshot 2](https://softwarebyte.site/swipecleaner/2sb.png) |
 
 ---
 
