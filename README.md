@@ -1,4 +1,4 @@
-# SoftwareByte
+# swipeCleaner
 
 <p align="center">
   <img src="https://res.cloudinary.com/js-create/image/upload/v1748499815/download_qkvqmw.png" alt="SoftwareByte Logo" width="120">
